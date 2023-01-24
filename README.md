@@ -1,4 +1,4 @@
-# QUaServer - Qt6
+# QUaServer - OPC UA server library (ported to Qt6)
 
 This is a [Qt6](https://www.qt.io/) port of the QUaServer library that provides a C++ **wrapper** for the [open62541](https://open62541.org/) library, and **abstraction** for the OPC UA Server API.
 
